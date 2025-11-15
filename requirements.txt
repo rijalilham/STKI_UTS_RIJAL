@@ -1,0 +1,4 @@
+numpy
+sastrawi
+scikit-learn
+nltk
